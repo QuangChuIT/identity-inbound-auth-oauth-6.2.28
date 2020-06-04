@@ -1,0 +1,13 @@
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/RegisterApi.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/main/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/factory/OAuth2DCRMServiceFactory.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/RegistrationRequestDTO.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/ApiResponseMessage.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/RegisterApiService.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/main/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/Exceptions/DCRMEndpointException.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/factories/RegisterApiServiceFactory.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/main/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/impl/RegisterApiServiceImpl.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/main/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/util/DCRMUtils.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/UpdateRequestDTO.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/ApiException.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/ErrorDTO.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.dcr.endpoint/src/gen/java/org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/ApplicationDTO.java

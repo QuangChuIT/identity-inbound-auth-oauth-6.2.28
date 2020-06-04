@@ -1,0 +1,6 @@
+org.wso2.carbon.identity.oauth.scope.endpoint
+org.wso2.carbon.identity.oauth.scope.endpoint.Exceptions
+org.wso2.carbon.identity.oauth.scope.endpoint.dto
+org.wso2.carbon.identity.oauth.scope.endpoint.factories
+org.wso2.carbon.identity.oauth.scope.endpoint.impl
+org.wso2.carbon.identity.oauth.scope.endpoint.util

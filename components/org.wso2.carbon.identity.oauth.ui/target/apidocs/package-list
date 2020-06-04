@@ -1,0 +1,4 @@
+org.wso2.carbon.identity.oauth.ui
+org.wso2.carbon.identity.oauth.ui.client
+org.wso2.carbon.identity.oauth.ui.internal
+org.wso2.carbon.identity.oauth.ui.util

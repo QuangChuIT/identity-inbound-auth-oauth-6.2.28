@@ -1,0 +1,4 @@
+org.wso2.carbon.identity.webfinger
+org.wso2.carbon.identity.webfinger.builders
+org.wso2.carbon.identity.webfinger.internal
+org.wso2.carbon.identity.webfinger.servlet

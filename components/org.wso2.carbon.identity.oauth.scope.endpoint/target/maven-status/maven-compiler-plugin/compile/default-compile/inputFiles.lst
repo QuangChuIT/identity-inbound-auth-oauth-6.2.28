@@ -1,0 +1,12 @@
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/ApiException.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/ApiResponseMessage.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/factories/ScopesApiServiceFactory.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/dto/ScopeToUpdateDTO.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/ScopesApi.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/dto/ScopeDTO.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/ScopesApiService.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/main/java/org/wso2/carbon/identity/oauth/scope/endpoint/Constants.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/main/java/org/wso2/carbon/identity/oauth/scope/endpoint/impl/ScopesApiServiceImpl.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/gen/java/org/wso2/carbon/identity/oauth/scope/endpoint/dto/ErrorDTO.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/main/java/org/wso2/carbon/identity/oauth/scope/endpoint/util/ScopeUtils.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.scope.endpoint/src/main/java/org/wso2/carbon/identity/oauth/scope/endpoint/Exceptions/ScopeEndpointException.java

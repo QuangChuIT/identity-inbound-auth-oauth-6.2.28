@@ -1,0 +1,16 @@
+org.wso2.carbon.identity.oauth.endpoint
+org.wso2.carbon.identity.oauth.endpoint.authz
+org.wso2.carbon.identity.oauth.endpoint.exception
+org.wso2.carbon.identity.oauth.endpoint.expmapper
+org.wso2.carbon.identity.oauth.endpoint.factory
+org.wso2.carbon.identity.oauth.endpoint.introspection
+org.wso2.carbon.identity.oauth.endpoint.jwks
+org.wso2.carbon.identity.oauth.endpoint.message
+org.wso2.carbon.identity.oauth.endpoint.oidcdiscovery
+org.wso2.carbon.identity.oauth.endpoint.oidcdiscovery.impl
+org.wso2.carbon.identity.oauth.endpoint.revoke
+org.wso2.carbon.identity.oauth.endpoint.state
+org.wso2.carbon.identity.oauth.endpoint.token
+org.wso2.carbon.identity.oauth.endpoint.user
+org.wso2.carbon.identity.oauth.endpoint.user.impl
+org.wso2.carbon.identity.oauth.endpoint.util

@@ -1,0 +1,10 @@
+org/wso2/carbon/identity/sso/authentication/SSOAuthenticationConstants$SSOAuthenticationEndpoints.class
+org/wso2/carbon/identity/sso/authentication/internal/SSOAuthenticationComponent.class
+org/wso2/carbon/identity/sso/authentication/http/CloseableCallback.class
+org/wso2/carbon/identity/sso/authentication/servlet/SSOAuthenticationServlet.class
+org/wso2/carbon/identity/sso/authentication/http/SendRequest.class
+org/wso2/carbon/identity/sso/authentication/SSOAuthenticationConstants.class
+org/wso2/carbon/identity/sso/authentication/SSOAuthenticationServiceHolder.class
+org/wso2/carbon/identity/sso/authentication/handler/SSOAuthenticationHandler.class
+org/wso2/carbon/identity/sso/authentication/servlet/SSOAuthenticationCallbackServlet.class
+org/wso2/carbon/identity/sso/authentication/PropertyFileReader.class

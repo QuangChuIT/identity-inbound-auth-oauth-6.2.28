@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1587797481186
+Build-Jdk: 1.8.0_221
+Built-By: quangcv
+Bundle-Description: SSO Authentication Implementation
+Bundle-DocURL: http://www.wso2.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.carbon.identity.sso.authentication
+Bundle-SymbolicName: org.wso2.carbon.identity.sso.authentication
+Bundle-Vendor: WSO2
+Bundle-Version: 6.2.28
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Export-Package: org.wso2.carbon.identity.sso.authentication;version="6.2
+ .28";uses:="org.osgi.service.http",org.wso2.carbon.identity.sso.authent
+ ication.handler;version="6.2.28",org.wso2.carbon.identity.sso.authentic
+ ation.http;version="6.2.28";uses:="org.apache.http,org.apache.http.conc
+ urrent,org.apache.http.impl.nio.client",org.wso2.carbon.identity.sso.au
+ thentication.servlet;version="6.2.28";uses:="javax.servlet,javax.servle
+ t.http"
+Import-Package: javax.servlet;version="[2.6.0,3.0.0)",javax.servlet.http
+ ;version="[2.6.0,3.0.0)",org.apache.commons.logging;version="[1.2,2.0)"
+ ,org.apache.http;version="[4.3,5)",org.apache.http.client.methods,org.a
+ pache.http.concurrent;version="[4.3,5)",org.apache.http.entity;version=
+ "[4.3,5)",org.apache.http.impl.client,org.apache.http.impl.nio.client,o
+ rg.apache.http.message;version="[4.3,5)",org.eclipse.equinox.http.helpe
+ r,org.osgi.service.component;version="[1.2.0,2.0.0)",org.osgi.service.h
+ ttp;version="[1.2.1,2.0.0)",javax.xml.namespace,org.apache.axiom.om;ver
+ sion="[1.2.11,2.0.0)",org.apache.axiom.om.util;version="[1.2.11,2.0.0)"
+ ,org.apache.commons.codec.binary;version="[1.4.0,2.0.0)",org.apache.com
+ mons.lang;version="[2.6.0,3.0.0)",org.apache.commons.lang.text;version=
+ "[2.6.0,3.0.0)",org.apache.commons.collections;version="[3.2.0,4.0.0)",
+ org.osgi.framework;version="[1.7.0,2.0.0)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.2.0.201605172007

@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - OIDC Dynamic Client Registration
+
+
+From: 'an unknown organization'
+  - org.eclipse.osgi.services  org.wso2.eclipse.osgi:org.eclipse.osgi.services:jar:3.5.100.v20160504-1419
+
+
+
+
+

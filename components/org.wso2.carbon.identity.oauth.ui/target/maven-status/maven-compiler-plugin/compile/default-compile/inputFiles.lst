@@ -1,0 +1,8 @@
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/OAuthServlet.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/internal/OAuthUIServiceComponentHolder.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/client/ClaimMetadataAdminClient.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/internal/OAuthUIServiceComponent.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/client/OAuthServiceClient.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/util/OAuthUIUtil.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/util/OAuthUIConstants.java
+/home/quangcv/IdeaProjects/identity-inbound-auth-oauth-6.2.28/components/org.wso2.carbon.identity.oauth.ui/src/main/java/org/wso2/carbon/identity/oauth/ui/client/OAuthAdminClient.java

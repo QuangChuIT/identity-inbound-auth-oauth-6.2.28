@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1588749699565
+Build-Jdk: 1.8.0_221
+Built-By: quangcv
+Bundle-Description: WSO2 is an open source application development softw
+ are company focused on providing service-oriented        architecture s
+ olutions for professional developers.
+Bundle-DocURL: http://www.wso2.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.carbon.identity.oauth.stub
+Bundle-SymbolicName: org.wso2.carbon.identity.oauth.stub
+Bundle-Vendor: WSO2
+Bundle-Version: 6.2.28
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wso2.carbon.identity.oauth.stub;version="6.2.28";use
+ s:="org.apache.axis2,org.apache.axis2.client,org.apache.axis2.context,o
+ rg.apache.axis2.description,org.wso2.carbon.identity.oauth.stub.dto,org
+ .wso2.carbon.identity.oauth.stub.types,org.wso2.carbon.identity.oauth.s
+ tub.types.axis2",org.wso2.carbon.identity.oauth.stub.dto;version="6.2.2
+ 8";uses:="javax.xml.namespace,javax.xml.stream,org.apache.axiom.om,org.
+ apache.axis2.databinding",org.wso2.carbon.identity.oauth.stub.types;ver
+ sion="6.2.28";uses:="javax.xml.namespace,javax.xml.stream,org.apache.ax
+ iom.om,org.apache.axis2.databinding",org.wso2.carbon.identity.oauth.stu
+ b.types.axis2;version="6.2.28";uses:="javax.xml.namespace,javax.xml.str
+ eam,org.apache.axiom.om,org.apache.axis2.databinding,org.wso2.carbon.id
+ entity.oauth.stub.dto,org.wso2.carbon.identity.oauth.stub.types",org.ws
+ o2.carbon.identity.oauth2.stub;version="6.2.28";uses:="org.apache.axis2
+ ,org.apache.axis2.client,org.apache.axis2.context,org.apache.axis2.desc
+ ription,org.wso2.carbon.identity.oauth2.stub.dto",org.wso2.carbon.ident
+ ity.oauth2.stub.dto;version="6.2.28";uses:="javax.xml.namespace,javax.x
+ ml.stream,org.apache.axiom.om,org.apache.axis2.databinding",org.wso2.ca
+ rbon.identity.oauth2.stub.types.axis2;version="6.2.28";uses:="javax.xml
+ .namespace,javax.xml.stream,org.apache.axiom.om,org.apache.axis2.databi
+ nding,org.wso2.carbon.identity.oauth2.stub.dto"
+Import-Package: javax.xml.namespace,javax.xml.stream;version="[1.0,2)",o
+ rg.apache.axiom.om,org.apache.axiom.soap,org.apache.axis2;version="[1.6
+ ,2)",org.apache.axis2.addressing;version="[1.6,2)",org.apache.axis2.cli
+ ent;version="[1.6,2)",org.apache.axis2.client.async;version="[1.6,2)",o
+ rg.apache.axis2.context;version="[1.6,2)",org.apache.axis2.databinding;
+ version="[1.6,2)",org.apache.axis2.databinding.utils;version="[1.6,2)",
+ org.apache.axis2.databinding.utils.reader;version="[1.6,2)",org.apache.
+ axis2.description;version="[1.6,2)",org.apache.axis2.engine;version="[1
+ .6,2)",org.apache.axis2.transport;version="[1.6,2)",org.apache.axis2.ut
+ il;version="[1.6,2)",org.wso2.carbon.identity.oauth.stub.dto;version="[
+ 6.2,7)",org.wso2.carbon.identity.oauth2.stub.dto;version="[6.2,7)",org.
+ wso2.carbon.identity.oauth2.stub.types.axis2;version="[6.2,7)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.2.0.201605172007

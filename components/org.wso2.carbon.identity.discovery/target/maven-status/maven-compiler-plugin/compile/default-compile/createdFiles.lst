@@ -1,0 +1,14 @@
+org/wso2/carbon/identity/discovery/DiscoveryConstants.class
+org/wso2/carbon/identity/discovery/builders/DefaultOIDCProviderRequestBuilder.class
+org/wso2/carbon/identity/discovery/OIDCProcessor.class
+org/wso2/carbon/identity/discovery/builders/ProviderConfigBuilder.class
+org/wso2/carbon/identity/discovery/OIDCDiscoveryEndPointException.class
+org/wso2/carbon/identity/discovery/DiscoveryUtil.class
+org/wso2/carbon/identity/discovery/internal/OIDCDiscoveryDataHolder.class
+org/wso2/carbon/identity/discovery/internal/OIDCDiscoveryServiceComponent.class
+org/wso2/carbon/identity/discovery/OIDProviderConfigResponse.class
+org/wso2/carbon/identity/discovery/builders/OIDCProviderRequestBuilder.class
+org/wso2/carbon/identity/discovery/DefaultOIDCProcessor.class
+org/wso2/carbon/identity/discovery/MessageContext.class
+org/wso2/carbon/identity/discovery/builders/OIDProviderResponseBuilder.class
+org/wso2/carbon/identity/discovery/OIDProviderRequest.class

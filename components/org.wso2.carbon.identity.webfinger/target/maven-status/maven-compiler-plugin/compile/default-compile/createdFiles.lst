@@ -1,0 +1,16 @@
+org/wso2/carbon/identity/webfinger/WebFingerProcessor.class
+org/wso2/carbon/identity/webfinger/internal/WebFingerServiceComponentHolder.class
+org/wso2/carbon/identity/webfinger/MessageContext.class
+org/wso2/carbon/identity/webfinger/builders/DefaultWebFingerRequestBuilder.class
+org/wso2/carbon/identity/webfinger/DefaultWebFingerProcessor.class
+org/wso2/carbon/identity/webfinger/WebFingerRequest.class
+org/wso2/carbon/identity/webfinger/servlet/WebFingerServlet.class
+org/wso2/carbon/identity/webfinger/WebFingerResponse.class
+org/wso2/carbon/identity/webfinger/WebFingerEndpointException.class
+org/wso2/carbon/identity/webfinger/WebFingerConstants.class
+org/wso2/carbon/identity/webfinger/builders/WebFingerResponseBuilder.class
+org/wso2/carbon/identity/webfinger/builders/WebFingerRequestBuilder.class
+org/wso2/carbon/identity/webfinger/internal/WebFingerServiceComponent.class
+org/wso2/carbon/identity/webfinger/servlet/JSONResponseBuilder.class
+org/wso2/carbon/identity/webfinger/WebLink.class
+org/wso2/carbon/identity/webfinger/builders/WebFingerOIDCResponseBuilder.class

@@ -1,0 +1,5 @@
+org.wso2.carbon.identity.base.xsd
+org.wso2.carbon.identity.claim.metadata.mgt.exception
+org.wso2.carbon.identity.claim.metadata.mgt.stub
+org.wso2.carbon.identity.claim.metadata.mgt.stub.dto
+org.wso2.carbon.identity.claim.metadata.mgt.stub.types.axis2

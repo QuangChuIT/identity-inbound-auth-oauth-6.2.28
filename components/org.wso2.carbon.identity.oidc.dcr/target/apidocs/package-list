@@ -1,0 +1,8 @@
+org.wso2.carbon.identity.oidc.dcr
+org.wso2.carbon.identity.oidc.dcr.context
+org.wso2.carbon.identity.oidc.dcr.factory
+org.wso2.carbon.identity.oidc.dcr.handler
+org.wso2.carbon.identity.oidc.dcr.internal
+org.wso2.carbon.identity.oidc.dcr.model
+org.wso2.carbon.identity.oidc.dcr.processor
+org.wso2.carbon.identity.oidc.dcr.util

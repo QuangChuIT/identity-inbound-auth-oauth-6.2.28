@@ -1,0 +1,13 @@
+org/wso2/carbon/identity/oauth2/dcr/endpoint/factory/OAuth2DCRMServiceFactory.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/util/DCRMUtils.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/impl/RegisterApiServiceImpl.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/RegistrationRequestDTO.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/ApplicationDTO.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/Exceptions/DCRMEndpointException.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/ErrorDTO.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/dto/UpdateRequestDTO.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/RegisterApi.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/ApiException.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/RegisterApiService.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/ApiResponseMessage.class
+org/wso2/carbon/identity/oauth2/dcr/endpoint/factories/RegisterApiServiceFactory.class

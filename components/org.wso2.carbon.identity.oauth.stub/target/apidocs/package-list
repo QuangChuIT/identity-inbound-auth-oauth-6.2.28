@@ -1,0 +1,10 @@
+org.wso2.carbon.core.common.xsd
+org.wso2.carbon.identity.base.xsd
+org.wso2.carbon.identity.oauth.stub
+org.wso2.carbon.identity.oauth.stub.dto
+org.wso2.carbon.identity.oauth.stub.types
+org.wso2.carbon.identity.oauth.stub.types.axis2
+org.wso2.carbon.identity.oauth.xsd
+org.wso2.carbon.identity.oauth2.stub
+org.wso2.carbon.identity.oauth2.stub.dto
+org.wso2.carbon.identity.oauth2.stub.types.axis2

@@ -1,0 +1,21 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - OAuth Test Common utilities
+
+
+From: 'an unknown organization'
+  - commons.codec.wso2 (http://wso2.org) commons-codec.wso2:commons-codec:bundle:1.4.0.wso2v1
+
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Log4j API (https://logging.apache.org/log4j/2.x/log4j-api/) org.apache.logging.log4j:log4j-api:jar:2.12.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Core (https://logging.apache.org/log4j/2.x/log4j-core/) org.apache.logging.log4j:log4j-core:jar:2.12.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

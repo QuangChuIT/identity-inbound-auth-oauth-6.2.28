@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1587789846252
+Build-Jdk: 1.8.0_221
+Built-By: quangcv
+Bundle-Description: Common bundle for OAuth BE and FE functionality
+Bundle-DocURL: http://www.wso2.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: WSO2 Carbon - OAuth Common
+Bundle-SymbolicName: org.wso2.carbon.identity.oauth.common
+Bundle-Vendor: WSO2
+Bundle-Version: 6.2.28
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wso2.carbon.identity.oauth.common;version="6.2.28";u
+ ses:="javax.servlet.http,org.apache.oltu.oauth2.as.validator,org.apache
+ .oltu.oauth2.common.exception,org.apache.oltu.oauth2.common.validators"
+ ,org.wso2.carbon.identity.oauth.common.exception;version="6.2.28";uses:
+ ="org.wso2.carbon.identity.base"
+Import-Package: org.apache.oltu.oauth2.as.validator;version="[1.0.0,2.0.
+ 0)",org.apache.oltu.oauth2.common.exception;version="[1.0.0,2.0.0)",org
+ .apache.oltu.oauth2.common.validators;version="[1.0.0,2.0.0)",org.apach
+ e.commons.lang;version="[2.6.0,3.0.0)",org.wso2.carbon.identity.base;ve
+ rsion="[5.14.67,6.0.0)",javax.servlet.http;version="[2.6.0,3.0.0)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.2.0.201605172007

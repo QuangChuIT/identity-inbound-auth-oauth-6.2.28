@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1587789887901
+Build-Jdk: 1.8.0_221
+Built-By: quangcv
+Bundle-Description: OpenId Connect Discovery Bundle
+Bundle-DocURL: http://www.wso2.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: WSO2 Carbon - OAuth OpenId Connect Discovery
+Bundle-SymbolicName: org.wso2.carbon.identity.discovery
+Bundle-Vendor: WSO2
+Bundle-Version: 6.2.28
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wso2.carbon.identity.discovery;version="6.2.28";uses
+ :="javax.servlet.http,org.wso2.carbon.base",org.wso2.carbon.identity.di
+ scovery.builders;version="6.2.28";uses:="javax.servlet.http,org.wso2.ca
+ rbon.base,org.wso2.carbon.identity.discovery"
+Import-Package: org.osgi.framework;version="[1.7.0,2.0.0)",org.osgi.serv
+ ice.component;version="[1.2.0,2.0.0)",org.apache.commons.logging;versio
+ n="[1.2,2.0)",javax.servlet.http;version="[2.6.0,3.0.0)",org.wso2.carbo
+ n.base;version="[1.0.0,2.0.0)",org.wso2.carbon.identity.oauth2;version=
+ "[6.2.0,7.0.0)",org.wso2.carbon.identity.oauth2.util;version="[6.2.0,7.
+ 0.0)",org.wso2.carbon.identity.oauth.config;version="[6.2.0,7.0.0)",org
+ .apache.commons.lang;version="[2.6.0,3.0.0)",org.wso2.carbon.identity.c
+ laim.metadata.mgt;version="[5.14.67,6.0.0)",org.wso2.carbon.identity.cl
+ aim.metadata.mgt.exception;version="[5.14.67,6.0.0)",org.wso2.carbon.id
+ entity.claim.metadata.mgt.model;version="[5.14.67,6.0.0)",org.wso2.carb
+ on.identity.core.util;version="[5.14.67,6.0.0)",com.nimbusds.jose;versi
+ on="[7.3.0,8.0.0)",org.wso2.carbon.identity.base;version="[5.14.67,6.0.
+ 0)",javax.servlet;version="[2.6.0,3.0.0)",javax.servlet.descriptor;vers
+ ion="[2.6.0,3.0.0)"
+Require-Capability: osgi.service;filter:="(objectClass=org.wso2.carbon.i
+ dentity.claim.metadata.mgt.ClaimMetadataManagementService)";effective:=
+ active,osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Service-Component: OSGI-INF/identity.discovery.component.xml
+Tool: Bnd-3.2.0.201605172007

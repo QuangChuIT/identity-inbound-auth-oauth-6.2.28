@@ -1,0 +1,12 @@
+org/wso2/carbon/identity/oauth/scope/endpoint/dto/ScopeDTO.class
+org/wso2/carbon/identity/oauth/scope/endpoint/util/ScopeUtils.class
+org/wso2/carbon/identity/oauth/scope/endpoint/Constants.class
+org/wso2/carbon/identity/oauth/scope/endpoint/ApiException.class
+org/wso2/carbon/identity/oauth/scope/endpoint/dto/ErrorDTO.class
+org/wso2/carbon/identity/oauth/scope/endpoint/ApiResponseMessage.class
+org/wso2/carbon/identity/oauth/scope/endpoint/Exceptions/ScopeEndpointException.class
+org/wso2/carbon/identity/oauth/scope/endpoint/factories/ScopesApiServiceFactory.class
+org/wso2/carbon/identity/oauth/scope/endpoint/ScopesApiService.class
+org/wso2/carbon/identity/oauth/scope/endpoint/impl/ScopesApiServiceImpl.class
+org/wso2/carbon/identity/oauth/scope/endpoint/dto/ScopeToUpdateDTO.class
+org/wso2/carbon/identity/oauth/scope/endpoint/ScopesApi.class

@@ -1,0 +1,8 @@
+org/wso2/carbon/identity/oauth/ui/internal/OAuthUIServiceComponentHolder.class
+org/wso2/carbon/identity/oauth/ui/OAuthServlet.class
+org/wso2/carbon/identity/oauth/ui/util/OAuthUIConstants.class
+org/wso2/carbon/identity/oauth/ui/util/OAuthUIUtil.class
+org/wso2/carbon/identity/oauth/ui/client/OAuthAdminClient.class
+org/wso2/carbon/identity/oauth/ui/client/ClaimMetadataAdminClient.class
+org/wso2/carbon/identity/oauth/ui/internal/OAuthUIServiceComponent.class
+org/wso2/carbon/identity/oauth/ui/client/OAuthServiceClient.class

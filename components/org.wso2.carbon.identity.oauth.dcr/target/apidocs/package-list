@@ -1,0 +1,11 @@
+org.wso2.carbon.identity.oauth.dcr
+org.wso2.carbon.identity.oauth.dcr.bean
+org.wso2.carbon.identity.oauth.dcr.context
+org.wso2.carbon.identity.oauth.dcr.exception
+org.wso2.carbon.identity.oauth.dcr.factory
+org.wso2.carbon.identity.oauth.dcr.handler
+org.wso2.carbon.identity.oauth.dcr.internal
+org.wso2.carbon.identity.oauth.dcr.model
+org.wso2.carbon.identity.oauth.dcr.processor
+org.wso2.carbon.identity.oauth.dcr.service
+org.wso2.carbon.identity.oauth.dcr.util
